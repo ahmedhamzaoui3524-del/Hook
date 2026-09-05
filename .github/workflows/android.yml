@@ -14,7 +14,7 @@ jobs:
 
       - name: Extract Android project
         run: |
-          unzip -o unzip -o Hook_RealUsers_Firebase_FIXED.zip
+          unzip -o Hook_RealUsers_Firebase_FIXED.zip
           ls -la
 
       - name: Set up JDK 17
